@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ono Soichiro
+## Hi there 👋, I'm Ono Soichiro
 
 <!--
 **OnoS07/OnoS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 現在転職活動中のエンジニアです。
+#### 主にRuby on Rails を学んでいます。
