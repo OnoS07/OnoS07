@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 #### 主にRuby on Rails を学んでいます。
 #### 野菜の購入・配送と、それらの野菜を使った料理レシピの投稿・共有ができるアプリ[Delitable](http://delitable.work/)を作成しました
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
