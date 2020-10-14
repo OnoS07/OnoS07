@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ono Soichiro
+## Hi there 👋, I'm Soichiro Ono
 
 <!--
 **OnoS07/OnoS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
