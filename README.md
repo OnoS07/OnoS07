@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 #### 野菜の購入・配送と、それらの野菜を使った料理レシピの投稿・共有ができるアプリ[Delitable](http://delitable.work/)を作成しました
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 現在の取り組み
+- Github毎日更新(主にポートフォリオ改善)
+- [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)読破
