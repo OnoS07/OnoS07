@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 現在の学習取り組み
-- Ruby on Railsの継続学習(主にポートフォリオの改善)
+- Ruby on Railsの継続学習(主に[ポートフォリオ](https://github.com/OnoS07/Delitable)の改善)
 - Docker, CirclrCIの導入
 - 書籍：[リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
 - Python： [機械学習](https://github.com/OnoS07/Machine-Larning)、 [入門Python3](https://github.com/OnoS07/introducing_python)、[django](https://github.com/OnoS07/my-first-blog)
