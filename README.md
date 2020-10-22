@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 書籍：[リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)、[Docker/Kubernetes 実践コンテナ開発入門](https://www.amazon.co.jp/gp/product/B07GP1Q3VT?pf_rd_r=PKQYEBBXJ2039Z3VCXJW&pf_rd_p=7392bae8-7129-4d1a-96a9-1cfe0aa13ab3)
 - Python： [機械学習](https://github.com/OnoS07/Machine-Larning)、 [入門Python3](https://github.com/OnoS07/introducing_python)、[django](https://github.com/OnoS07/my-first-blog)
 
-####Qiita
+#### Qiita
 - [Vagrant上で作成したポートフォリオをDockerの開発環境に移行してみた](https://qiita.com/OnoS07/items/eca21cb85096091ae781)
