@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 #### :computer:スキル(2020年4月より学習)
 - Ruby/ Ruby on Rails
 - JavaScript/ jQuery
-- Docker/ docker-compose
+- Docker/ docker-composee
+- CircleCI
 - Capistrano
 - AWS (EC2/ RDS for MySQL/ Route53)
 - Nginx/ Puma
