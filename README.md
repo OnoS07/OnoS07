@@ -13,19 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2020年4月より学習を始め、現在転職活動中のエンジニアです。主にRuby on Rails を学んでいます。  
+現在転職活動中のエンジニアです。主にRuby on Rails を学んでいます。  
 ポートフォリオとして、野菜の購入・配送と、それらの野菜を使った料理レシピの投稿・共有ができるアプリ[Delitable](http://delitable.work/)を作成しました
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :computer:スキル
 - Ruby/ Ruby on Rails
+- HTML5/ SCSS
 - JavaScript/ jQuery
 - Docker/ docker-composee
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
 - Capistrano
 - AWS (EC2/ RDS for MySQL/ Route53)
 - Nginx/ Puma
+- Github
 
 
 #### :star2:現在の学習取り組み
