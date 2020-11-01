@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 #### :computer:スキル
 - Ruby/ Ruby on Rails
-- HTML5/ SCSS
+- HTML5/ SCSS/ Bootstrap
 - JavaScript/ jQuery
 - Docker/ docker-composee
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
 - Capistrano
-- AWS (EC2/ RDS for MySQL/ Route53)
-- Nginx/ Puma
-- Github
+- AWS (EC2/ RDS for MySQL/ Route53)/ Nginx/ Puma
 
 
 #### :star2:現在の学習取り組み
