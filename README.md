@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - JavaScript/ jQuery
 - Docker/ docker-composee
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
-- Capistrano
 - AWS (EC2/ RDS for MySQL/ Route53)/ Nginx/ Puma
 
 
