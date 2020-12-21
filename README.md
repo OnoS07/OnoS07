@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
 - AWS (EC2/ RDS for MySQL/ Route53)/ Nginx/ Puma
 
-#### :star2:学習中
-- PHP/ laravel
-- javascript/ React
+#### :star2:学習中スキル
+- PHP/ Laravel
+- Javascript/ React
 
 #### :star:その他の取り組み
 - Ruby on Railsの継続学習(主に[ポートフォリオ](https://github.com/OnoS07/Delitable)の改善)
