@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
 - AWS (EC2/ RDS for MySQL/ Route53)/ Nginx/ Puma
 
+#### :star2:学習中
+- PHP/ laravel
+- javascript/ React
 
-#### :star2:現在の学習取り組み
+#### :star:その他の取り組み
 - Ruby on Railsの継続学習(主に[ポートフォリオ](https://github.com/OnoS07/Delitable)の改善)
 - SQL：[すっきりわかるSQL入門](https://github.com/OnoS07/SQL_introduction/tree/master)
 - Python： [機械学習](https://github.com/OnoS07/Machine-Larning)、 [入門Python3](https://github.com/OnoS07/introducing_python)、[django](https://github.com/OnoS07/my-first-blog)
