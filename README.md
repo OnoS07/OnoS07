@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OnoS07&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :fork_and_knife:個人開発：[Delitable](http://delitable.work/)(野菜の購入・配送と、それらの野菜を使った料理レシピの投稿・共有ができるアプリ)
+#### :fork_and_knife:個人開発：[Delitable](https://github.com/OnoS07/Delitable)(野菜の購入・配送と、それらの野菜を使った料理レシピの投稿・共有ができるアプリ)
 
 #### :computer:スキル
 - Ruby/ Ruby on Rails
+- PHP/ Laravel
 - HTML5/ SCSS/ Bootstrap
-- JavaScript/ React/ jQuery
+- JavaScript/ React/ Vue/ jQuery
 - Docker/ docker-composee
 - CircleCI(自動テスト・自動ビルド・自動デプロイ)
 - AWS (EC2/ RDS for MySQL/ Route53)/ Nginx/ Puma
 
-#### :star2:学習中スキル
-- PHP：Progateにて基礎学習済み
-- Laravel：[Laravel入門](https://www.amazon.co.jp/PHP%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-Laravel%E5%85%A5%E9%96%80-%E7%AC%AC2%E7%89%88-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83-ebook/dp/B08625YD7H)にて学習し、現在アウトプットのためWebアプリケーション開発に取り組み中→[Laratable](https://github.com/OnoS07/Laratable)
-
-
-#### :star:その他の取り組み
+#### :star:学習取り組み
 - コンピューターサイエンス基礎：[Webを支える技術](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93HTTP%E3%80%81URI%E3%80%81HTML%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus/dp/4774142042)、[Web技術の基本](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=web%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC&qid=1611283267&sr=8-1)
 - SQL：[すっきりわかるSQL入門](https://github.com/OnoS07/SQL_introduction/tree/master)
 - Python： [機械学習](https://github.com/OnoS07/Machine-Larning)、 [入門Python3](https://github.com/OnoS07/introducing_python)、[django](https://github.com/OnoS07/my-first-blog)
